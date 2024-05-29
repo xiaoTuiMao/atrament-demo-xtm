@@ -41,8 +41,14 @@ body {
   height: 100px;
   box-sizing: border-box;
   padding: 10px;
+  display: flex;
+  align-items: center;
 }
 
 .editItem {
   display: flex;
+  height: 50px;
+  align-items: center;
+  margin-right: 10px;
+  cursor: pointer;
 }
